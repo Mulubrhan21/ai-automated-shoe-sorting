@@ -1,0 +1,6 @@
+model,unit,n,accuracy,macro_precision,macro_recall,macro_f1
+ResNet18,image,309,0.8155,0.78,0.69,0.72
+ResNet18 UT Zappos50K,image,309,0.7994,0.72,0.71,0.72
+YOLO11n-cls,image,309,0.8414,0.8079,0.7471,0.7657
+SigLIP zero-shot,image,231,0.8312,0.81,0.75,0.7510
+SigLIP logistic regression,shoe,50,0.9000,0.9100,0.8852,0.8950

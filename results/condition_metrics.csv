@@ -1,0 +1,5 @@
+model,n_shoes,accuracy,macro_precision,macro_recall,macro_f1
+ResNet18 4plus,67,0.5970,0.60,0.60,0.60
+ResNet18 5view,41,0.7805,0.81,0.79,0.78
+SigLIP 5view,41,0.8049,0.8038,0.8038,0.8038
+DINOv2 5view,41,0.8293,0.8316,0.8266,0.8276
